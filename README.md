@@ -36,7 +36,6 @@ A number of statistics modules are used throughout the notebook for data manipul
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
 </div>
-\
 
 ### Overview of notebook contents:
 1. Problem 1: Extending the Lady Tasting Tea Experiment
