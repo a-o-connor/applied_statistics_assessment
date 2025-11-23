@@ -23,7 +23,7 @@ A number of statistics modules are used throughout the notebook for data manipul
     - [Matplotlib](https://matplotlib.org/)
     - [Seaborn](https://seaborn.pydata.org/) 
     - [Scikit Learn](https://scikit-learn.org/stable/)
-\
+
 
 - The required Python dependencies are listed in `requirements.txt`.
 - Install dependencies using:
