@@ -3,7 +3,7 @@
 **By A. O'Connor**
 *********
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python Logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*OTQHk3rsuzwdidO9zgSOfA.png" alt="Python Logo" />
 </p>
 
 *********
@@ -24,8 +24,8 @@ A number of statistics modules are used throughout the notebook for data manipul
 - [Seaborn](https://seaborn.pydata.org/) 
 - [Scikit Learn](https://scikit-learn.org/stable/)
 
+The required Python dependencies are listed in `requirements.txt`.
 
-- The required Python dependencies are listed in `requirements.txt`.
 - Install dependencies using:
     ````bash
     pip install -r requirements.txt
@@ -39,6 +39,10 @@ A number of statistics modules are used throughout the notebook for data manipul
 
 ### Overview of notebook contents:
 1. Problem 1: Extending the Lady Tasting Tea Experiment
-2. Problem 2
-3. Problem 3
-4. Problem 4
+- In this problem, the classic [Lady Tasting Tea](https://en.wikipedia.org/wiki/Lady_tasting_tea) experiment is simulated for 12 cups (instead of the original 8 cup experiment) and the probability of the participant correctly identifying all cups with milk first by random chance is calculated. 
+2. Problem 2: Normal Distribution
+- In this problem, 100,000 samples of size 10 are drawn from a standard normal distribution. The sample standard deviation and the population standard deviation are calculated for each sample, and the histogram for both sets of values are plotted.
+3. Problem 3: *t*-Tests
+In this problem, a simulation is carried out that draws two samples of size 100 with different means, runs a *t*-test on the two samples, and calculates the proportion of times the null hypothesis is not rejected.
+4. Problem 4: ANOVA
+In this problem, three samples of size 30 are generated, and both a oneway ANOVA and three *t*-tests (one for each pariwise combination) are run to test whether all 3 sample means are equal. 
