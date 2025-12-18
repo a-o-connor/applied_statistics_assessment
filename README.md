@@ -38,11 +38,11 @@ The required Python dependencies are listed in `requirements.txt`.
 </div>
 
 ### Overview of notebook contents:
-**1. Problem 1: Extending the Lady Tasting Tea Experiment**
+1. **Problem 1: Extending the Lady Tasting Tea Experiment**
 - In this problem, the classic [Lady Tasting Tea](https://en.wikipedia.org/wiki/Lady_tasting_tea) experiment is simulated for 12 cups (instead of the original 8 cup experiment) and the probability of the participant correctly identifying all cups with milk first by random chance is calculated. 
-**2. Problem 2: Normal Distribution**
+2. **Problem 2: Normal Distribution**
 - In this problem, 100,000 samples of size 10 are drawn from a standard normal distribution. The sample standard deviation and the population standard deviation are calculated for each sample, and the histogram for both sets of values are plotted.
-**3. Problem 3: *t*-Tests**
+3. **Problem 3: *t*-Tests**
 - In this problem, a simulation is carried out that draws two samples of size 100 with different means, runs a *t*-test on the two samples, and calculates the proportion of times the null hypothesis is not rejected.
-**4. Problem 4: ANOVA**
+4. **Problem 4: ANOVA**
 - In this problem, three samples of size 30 are generated, and both a oneway ANOVA and three *t*-tests (one for each pariwise combination) are run to test whether all 3 sample means are equal. 
